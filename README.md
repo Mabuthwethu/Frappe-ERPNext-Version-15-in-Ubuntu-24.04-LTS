@@ -2,10 +2,6 @@
 A complete Guide to Install Frappe/ERPNext version 15  in Ubuntu 24.04 LTS
 
 
-#### Refer this for default python 3.11 setup
-
-- [D-codeE Video Tutorial](https://youtu.be/zU41gq7nji4)
-
 ### Pre-requisites 
 
       Python 3.11+                                  (python 3.12 is inbuilt in 24.04 LTS)
@@ -170,7 +166,7 @@ Now press (Ctrl-X) to exit
     
     bench --site dcode.com add-to-hosts
 
-Open url http://dcode.com:8000 to login 
+Open url http://localhost.com:8000 to login 
 
 
 ### STEP 15 install ERPNext latest version in bench & site
